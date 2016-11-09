@@ -23,5 +23,13 @@
   },
   "devDependencies": {
     "koa-logger": "^1.3.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heriky/koa-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/heriky/koa-generator/issues"
+  },
+  "homepage": "https://github.com/heriky/koa-generator#readme",
 }
